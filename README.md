@@ -3,9 +3,13 @@ A simple Chatroom application made with JavaScript and NodeJS
 ## About
 This app utilizes JavaScript, HTML + CSS paired with NodeJS (Socket.io) run the backend server. 
 
-It utilizes your localhost server to run 
+It utilizes Heroku to deploy
 
-## How to use
+## How to Use
+Go to https://js-chat-room.herokuapp.com/ and Join a chat room!
+
+## How to use on your own
+Pull Code from Git
 
 Run:
 npm install
