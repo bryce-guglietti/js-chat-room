@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io('https://lit-ridge-77524.herokuapp.com/');
 const chatForm = document.getElementById('chat-form');
 const chatMessages = document.querySelector('.chat-messages');
 const roomName = document.getElementById('room-name');
