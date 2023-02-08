@@ -5,9 +5,6 @@ This app utilizes JavaScript, HTML + CSS paired with NodeJS (Socket.io) run the 
 
 It utilizes Heroku to deploy
 
-## How to Use
-Go to https://js-chat-room.herokuapp.com/ and Join a chat room!
-
 ## How to use on your own
 Pull Code from Git
 
@@ -17,4 +14,7 @@ npm install
 npm run dev
 
 Go to browser and run: localhost:3000
+
+## Notes
+The website is not currently on a live server due to Heroku's server fees.
 
